@@ -28,6 +28,8 @@ if (isset($_SESSION["username"])) {
 			<span class="login-signup"><a href="logout.php">Logout</a></span>
 		</div>
 		<div class="page-content">Welcome <?php echo $username;?></div>
+		<div class "page-content">This is a trial of my learning I have worked on three different cloud network to manage
+			only login page.</div>
 	</div>
 </BODY>
 </HTML>
