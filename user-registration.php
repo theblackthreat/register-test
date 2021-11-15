@@ -8,7 +8,7 @@ if (! empty($_POST["signup-btn"])) {
 ?>
 <HTML>
 <HEAD>
-<TITLE>User Registration</TITLE>
+<TITLE>Theblackthreat</TITLE>
 <link href="assets/css/phppot-style.css" type="text/css"
 	rel="stylesheet" />
 <link href="assets/css/user-registration.css" type="text/css"
